@@ -106,4 +106,5 @@ Here are some ideas to get you started:
 - Android Application Website for master's degree
 
 ## :page_with_curl: Document
-- https://drive.google.com/drive/folders/1OxbtC4qgWEihrPprGTMiC7tym9e5M0WS?usp=sharing
+- Resume and Transcipt. https://drive.google.com/drive/folders/1OxbtC4qgWEihrPprGTMiC7tym9e5M0WS?usp=sharing
+- Other Project. https://drive.google.com/drive/folders/1lInpsE7CMs2ME4OVgKI6L1kpDuhOw7fH?usp=sharing
